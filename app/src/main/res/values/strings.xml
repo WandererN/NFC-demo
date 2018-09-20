@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nfc Demo</string>
+    <string name="ReadNFC">Read NFC</string>
+    <string name="EmulateNFC">Emulate NFC</string>
+    <string name="format_nfc">Format NFC</string>
+    <string name="readNdef">Read NDEF</string>
+</resources>
